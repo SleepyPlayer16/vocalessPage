@@ -110,4 +110,4 @@ Please change the parent <Route path="${B}"> to <Route path="${B==="/"?"*":`${B}
     width: 175px;
     height: 36px;
   }
-`;function eg(){return Za.jsx(Q1,{children:Za.jsx(b1,{children:Za.jsx(b0,{path:"/",element:Za.jsx("h1",{children:"hi"})})})})}Mv.createRoot(document.getElementById("root")).render(Za.jsx(x.StrictMode,{children:Za.jsx(eg,{})}));
+`;function eg(){return Za.jsx(Q1,{children:Za.jsx(b1,{children:Za.jsx(b0,{path:"/ss",element:Za.jsx("h1",{children:"hi"})})})})}Mv.createRoot(document.getElementById("root")).render(Za.jsx(x.StrictMode,{children:Za.jsx(eg,{})}));
